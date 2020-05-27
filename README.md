@@ -1,2 +1,2 @@
 # breaking-bad-camera-effect-instagram
-An instagram AR camera effect. 
+An instagram AR camera effect made in Spark AR Studio
